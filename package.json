@@ -1,0 +1,15 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "description": "![cover-linkedin](https://user-images.githubusercontent.com/81651304/124675173-8ac9bb00-de92-11eb-949e-bdb819dc77be.jpg)"
+}
